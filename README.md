@@ -30,9 +30,6 @@ python -m src.generate_data
 python -m src.train_model
 ```
 
-## Laporan
-Lihat [`docs/studi_kasus.md`](docs/studi_kasus.md).
-
 ## Repo lain dalam rangkaian studi kasus ini
 - `01-data-analysis-and-ai`
 - `02-hpc-parallel-processing`
